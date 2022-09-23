@@ -1,0 +1,12 @@
+Here are a couple different ways to run the program
+
+1.
+Open the package in an IDE such as Intellij. Build and run the Server.java and then the Client.java
+Run as many Client.java's as you want to play the game.
+
+
+2. open up \out\artifacts\Client_jar and \out\artifacts\Server_jar
+copy the pathname for each of these and run them in a terminal
+for example
+java -jar <Copy pathname here>
+
